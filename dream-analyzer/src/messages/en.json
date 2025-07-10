@@ -1,0 +1,266 @@
+{
+  "navigation": {
+    "home": "Home",
+    "features": "Features",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Discover the Hidden Messages in Your Dreams",
+    "subtitle": "AI-powered dream analysis that reveals the deeper meaning behind your subconscious mind",
+    "cta": "Start Analyzing Dreams",
+    "ctaSecondary": "Learn More"
+  },
+  "features": {
+    "title": "Powerful Features for Dream Analysis",
+    "subtitle": "Everything you need to understand your dreams and unlock your subconscious",
+    "aiAnalysis": {
+      "title": "AI-Powered Analysis",
+      "description": "Advanced AI algorithms analyze your dreams using psychology and symbolism"
+    },
+    "dreamDictionary": {
+      "title": "Personal Dream Dictionary",
+      "description": "Build your own personalized dream symbol dictionary over time"
+    },
+    "patternRecognition": {
+      "title": "Pattern Recognition",
+      "description": "Identify recurring themes and patterns across your dreams"
+    },
+    "moodCorrelation": {
+      "title": "Mood Correlation",
+      "description": "Connect your dreams to your emotional state and daily experiences"
+    },
+    "journaling": {
+      "title": "Dream Journaling",
+      "description": "Easy-to-use tools to record and organize your dreams"
+    },
+    "expertConsultation": {
+      "title": "Expert Consultation",
+      "description": "Access to professional dream analysts and therapists"
+    }
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "subtitle": "Get started in just 4 simple steps",
+    "step1": {
+      "title": "Record Your Dreams",
+      "description": "Use voice or text to capture your dreams as soon as you wake up"
+    },
+    "step2": {
+      "title": "AI Analysis",
+      "description": "Our AI analyzes symbols, patterns, and psychological meanings"
+    },
+    "step3": {
+      "title": "Get Insights",
+      "description": "Receive personalized interpretations and psychological insights"
+    },
+    "step4": {
+      "title": "Track Progress",
+      "description": "Monitor your mental wellness journey through dream patterns"
+    }
+  },
+  "pricing": {
+    "title": "Choose Your Plan",
+    "subtitle": "Start free and upgrade as you discover more about yourself",
+    "free": {
+      "title": "Free",
+      "price": "$0",
+      "period": "forever",
+      "features": [
+        "5 dreams per month",
+        "Basic AI analysis",
+        "Dream journaling",
+        "Community support"
+      ],
+      "cta": "Start Free"
+    },
+    "premium": {
+      "title": "Premium",
+      "price": "$9.99",
+      "period": "per month",
+      "features": [
+        "Unlimited dream analysis",
+        "Advanced AI insights",
+        "Pattern recognition",
+        "Mood correlation",
+        "Personal dream dictionary",
+        "Priority support"
+      ],
+      "cta": "Upgrade to Premium",
+      "popular": "Most Popular"
+    },
+    "therapy": {
+      "title": "Therapy",
+      "price": "$49.99",
+      "period": "per month",
+      "features": [
+        "Everything in Premium",
+        "Expert consultation",
+        "Personalized therapy sessions",
+        "Deep psychological analysis",
+        "Progress tracking",
+        "24/7 support"
+      ],
+      "cta": "Start Therapy"
+    }
+  },
+  "testimonials": {
+    "title": "What Our Users Say",
+    "subtitle": "Join thousands who have discovered the power of dream analysis",
+    "testimonial1": {
+      "text": "DreamAnalyzer helped me understand recurring nightmares and finally get peaceful sleep.",
+      "author": "Sarah Johnson",
+      "role": "Marketing Manager"
+    },
+    "testimonial2": {
+      "text": "The AI insights are incredibly accurate. It's like having a personal dream therapist.",
+      "author": "Michael Chen",
+      "role": "Software Engineer"
+    },
+    "testimonial3": {
+      "text": "I've learned so much about myself through dream analysis. Highly recommended!",
+      "author": "Emma Rodriguez",
+      "role": "Teacher"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about dream analysis",
+    "q1": {
+      "question": "Is dream analysis scientifically proven?",
+      "answer": "Yes, dream analysis is backed by psychology research and has been used in therapy for decades. Our AI combines traditional psychological methods with modern technology."
+    },
+    "q2": {
+      "question": "How accurate is the AI analysis?",
+      "answer": "Our AI is trained on extensive psychological research and dream symbolism databases. While interpretations are personalized, they provide valuable insights for self-reflection."
+    },
+    "q3": {
+      "question": "Is my dream data private and secure?",
+      "answer": "Absolutely. We use enterprise-grade encryption and never share your personal data. Your dreams are private and secure."
+    },
+    "q4": {
+      "question": "Can I cancel my subscription anytime?",
+      "answer": "Yes, you can cancel your subscription at any time. No long-term commitments required."
+    }
+  },
+  "footer": {
+    "description": "AI-powered dream analysis platform helping you understand your subconscious mind",
+    "links": {
+      "product": "Product",
+      "features": "Features",
+      "pricing": "Pricing",
+      "about": "About"
+    },
+    "support": "Support",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "copyright": "© 2025 DreamAnalyzer. All rights reserved."
+  },
+  "dashboard": {
+    "navigation": {
+      "dashboard": "Dashboard",
+      "journal": "Dream Journal",
+      "chat": "AI Dream Chat",
+      "history": "Analysis History",
+      "insights": "Insights & Patterns",
+      "settings": "Settings",
+      "subscription": "Subscription"
+    },
+    "header": {
+      "searchPlaceholder": "Search dreams, symbols, patterns...",
+      "recordDream": "Record Dream"
+    },
+    "welcome": {
+      "title": "Welcome back, {name}!",
+      "subtitle": "Ready to explore your subconscious mind today?"
+    },
+    "actions": {
+      "recordDream": "Record New Dream",
+      "viewAll": "View All"
+    },
+    "recentDreams": {
+      "title": "Recent Dreams",
+      "description": "Your latest dream entries with AI insights"
+    },
+    "aiChat": {
+      "title": "AI Dream Chat",
+      "description": "Ask questions about your dreams",
+      "startChat": "Start Conversation"
+    },
+    "quickActions": {
+      "title": "Quick Actions",
+      "scheduleDream": "Schedule Dream Reminder",
+      "viewInsights": "View AI Insights",
+      "exploreSymbols": "Explore Dream Symbols"
+    }
+  },
+  "chat": {
+    "title": "AI Dream Chat",
+    "subtitle": "Chat with your personal AI dream interpreter",
+    "status": {
+      "online": "Online",
+      "typing": "AI is analyzing...",
+      "offline": "Offline"
+    },
+    "placeholder": "Describe your dream or ask a question...",
+    "send": "Send",
+    "voiceInput": "Voice Input",
+    "suggestedQuestions": {
+      "title": "Suggested questions:",
+      "questions": [
+        "What does it mean when I dream about flying?",
+        "Why do I keep having the same dream?",
+        "What do water dreams symbolize?",
+        "How can I remember my dreams better?",
+        "What does it mean to dream about animals?",
+        "Why do I have nightmares?"
+      ]
+    },
+    "welcomeMessage": "Hello! I'm your AI Dream Interpreter. I'm here to help you understand the hidden meanings in your dreams. What would you like to explore today?",
+    "aiResponses": {
+      "flying": "Flying dreams are fascinating! They often represent a desire for freedom, liberation from constraints, or gaining a new perspective on life. The feeling of soaring can indicate feelings of empowerment and the ability to rise above challenges.",
+      "water": "Water in dreams is deeply symbolic and typically represents emotions, the unconscious mind, and spiritual cleansing. The state of the water often reflects your emotional state.",
+      "chase": "Chase dreams are among the most common dream themes and usually indicate avoidance or anxiety about something in your waking life.",
+      "animals": "Animals in dreams often represent our instincts, primal desires, or aspects of our personality. Different animals carry different meanings.",
+      "generic": "That's a very interesting dream! Dreams are highly personal and their meanings can vary based on your life experiences, emotions, and current circumstances."
+    }
+  },
+  "journal": {
+    "title": "Dream Journal",
+    "subtitle": "Record and explore your dreams",
+    "addDream": "Record New Dream",
+    "searchPlaceholder": "Search dreams, tags, symbols...",
+    "filters": {
+      "allMoods": "All Moods",
+      "positive": "Positive",
+      "neutral": "Neutral", 
+      "negative": "Negative",
+      "nostalgic": "Nostalgic",
+      "anxious": "Anxious"
+    },
+    "form": {
+      "title": "Dream Title",
+      "titlePlaceholder": "Give your dream a title...",
+      "description": "Dream Description",
+      "descriptionPlaceholder": "Describe your dream in detail...",
+      "mood": "Mood",
+      "tags": "Tags (comma separated)",
+      "tagsPlaceholder": "adventure, flying, water...",
+      "lucid": "This was a lucid dream (I was aware I was dreaming)",
+      "save": "Save Dream",
+      "cancel": "Cancel"
+    },
+    "empty": {
+      "title": "No dreams found",
+      "subtitle": "Start recording your dreams to build your dream journal",
+      "filtered": "Try adjusting your search or filters",
+      "cta": "Record Your First Dream"
+    },
+    "actions": {
+      "viewDetails": "View Details",
+      "edit": "Edit",
+      "delete": "Delete"
+    }
+  }
+} 

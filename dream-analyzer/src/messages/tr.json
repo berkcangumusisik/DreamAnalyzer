@@ -1,0 +1,266 @@
+{
+  "navigation": {
+    "home": "Ana Sayfa",
+    "features": "Özellikler",
+    "pricing": "Fiyatlandırma",
+    "about": "Hakkımızda",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "title": "Rüyalarınızdaki Gizli Mesajları Keşfedin",
+    "subtitle": "Bilinçaltınızın derinliklerindeki anlamları açığa çıkaran yapay zeka destekli rüya analizi",
+    "cta": "Rüya Analizine Başla",
+    "ctaSecondary": "Daha Fazla Bilgi"
+  },
+  "features": {
+    "title": "Rüya Analizi için Güçlü Özellikler",
+    "subtitle": "Rüyalarınızı anlamak ve bilinçaltınızı keşfetmek için ihtiyacınız olan her şey",
+    "aiAnalysis": {
+      "title": "Yapay Zeka Destekli Analiz",
+      "description": "Gelişmiş yapay zeka algoritmaları rüyalarınızı psikoloji ve sembolizm kullanarak analiz eder"
+    },
+    "dreamDictionary": {
+      "title": "Kişisel Rüya Sözlüğü",
+      "description": "Zamanla kendi kişiselleştirilmiş rüya sembol sözlüğünüzü oluşturun"
+    },
+    "patternRecognition": {
+      "title": "Desen Tanıma",
+      "description": "Rüyalarınız arasındaki tekrarlayan temaları ve desenleri tanımlayın"
+    },
+    "moodCorrelation": {
+      "title": "Duygu Durumu Korelasyonu",
+      "description": "Rüyalarınızı duygusal durumunuzla ve günlük deneyimlerinizle bağlayın"
+    },
+    "journaling": {
+      "title": "Rüya Günlüğü",
+      "description": "Rüyalarınızı kaydetmek ve organize etmek için kolay kullanımlı araçlar"
+    },
+    "expertConsultation": {
+      "title": "Uzman Danışmanlığı",
+      "description": "Profesyonel rüya analistleri ve terapistlere erişim"
+    }
+  },
+  "howItWorks": {
+    "title": "Nasıl Çalışır",
+    "subtitle": "Sadece 4 basit adımda başlayın",
+    "step1": {
+      "title": "Rüyalarınızı Kaydedin",
+      "description": "Uyandığınız anda rüyalarınızı ses veya metin ile yakalayın"
+    },
+    "step2": {
+      "title": "Yapay Zeka Analizi",
+      "description": "Yapay zekamız sembolleri, desenleri ve psikolojik anlamları analiz eder"
+    },
+    "step3": {
+      "title": "İçgörüler Alın",
+      "description": "Kişiselleştirilmiş yorumlar ve psikolojik içgörüler alın"
+    },
+    "step4": {
+      "title": "İlerlemeyi Takip Edin",
+      "description": "Rüya desenleri aracılığıyla zihinsel sağlık yolculuğunuzu izleyin"
+    }
+  },
+  "pricing": {
+    "title": "Planınızı Seçin",
+    "subtitle": "Ücretsiz başlayın ve kendiniz hakkında daha fazla şey keşfettikçe yükseltin",
+    "free": {
+      "title": "Ücretsiz",
+      "price": "₺0",
+      "period": "süresiz",
+      "features": [
+        "Ayda 5 rüya",
+        "Temel yapay zeka analizi",
+        "Rüya günlüğü",
+        "Topluluk desteği"
+      ],
+      "cta": "Ücretsiz Başla"
+    },
+    "premium": {
+      "title": "Premium",
+      "price": "₺299",
+      "period": "aylık",
+      "features": [
+        "Sınırsız rüya analizi",
+        "Gelişmiş yapay zeka içgörüleri",
+        "Desen tanıma",
+        "Duygu durumu korelasyonu",
+        "Kişisel rüya sözlüğü",
+        "Öncelikli destek"
+      ],
+      "cta": "Premium'a Geç",
+      "popular": "En Popüler"
+    },
+    "therapy": {
+      "title": "Terapi",
+      "price": "₺1499",
+      "period": "aylık",
+      "features": [
+        "Premium'daki her şey",
+        "Uzman danışmanlığı",
+        "Kişiselleştirilmiş terapi seansları",
+        "Derin psikolojik analiz",
+        "İlerleme takibi",
+        "7/24 destek"
+      ],
+      "cta": "Terapiye Başla"
+    }
+  },
+  "testimonials": {
+    "title": "Kullanıcılarımız Ne Diyor",
+    "subtitle": "Rüya analizinin gücünü keşfeden binlerce kişiye katılın",
+    "testimonial1": {
+      "text": "DreamAnalyzer tekrarlayan kabusları anlamama ve sonunda huzurlu uyku uyumama yardımcı oldu.",
+      "author": "Ayşe Yılmaz",
+      "role": "Pazarlama Müdürü"
+    },
+    "testimonial2": {
+      "text": "Yapay zeka içgörüleri inanılmaz derecede doğru. Kişisel rüya terapistiniz varmış gibi.",
+      "author": "Mehmet Kaya",
+      "role": "Yazılım Mühendisi"
+    },
+    "testimonial3": {
+      "text": "Rüya analizi sayesinde kendim hakkında çok şey öğrendim. Kesinlikle tavsiye ederim!",
+      "author": "Elif Demir",
+      "role": "Öğretmen"
+    }
+  },
+  "faq": {
+    "title": "Sık Sorulan Sorular",
+    "subtitle": "Rüya analizi hakkında bilmeniz gereken her şey",
+    "q1": {
+      "question": "Rüya analizi bilimsel olarak kanıtlanmış mı?",
+      "answer": "Evet, rüya analizi psikoloji araştırmaları tarafından desteklenir ve on yıllardır terapi de kullanılmaktadır. Yapay zekamız geleneksel psikolojik yöntemleri modern teknoloji ile birleştirir."
+    },
+    "q2": {
+      "question": "Yapay zeka analizi ne kadar doğru?",
+      "answer": "Yapay zekamız kapsamlı psikolojik araştırmalar ve rüya sembolizmi veritabanları üzerinde eğitilmiştir. Yorumlar kişiselleştirilmiş olsa da, öz yansıma için değerli içgörüler sağlar."
+    },
+    "q3": {
+      "question": "Rüya verilerim gizli ve güvenli mi?",
+      "answer": "Kesinlikle. Kurumsal düzeyde şifreleme kullanıyoruz ve kişisel verilerinizi asla paylaşmıyoruz. Rüyalarınız gizli ve güvenlidir."
+    },
+    "q4": {
+      "question": "Aboneliğimi istediğim zaman iptal edebilir miyim?",
+      "answer": "Evet, aboneliğinizi istediğiniz zaman iptal edebilirsiniz. Uzun vadeli taahhüt gerekmez."
+    }
+  },
+  "footer": {
+    "description": "Bilinçaltınızı anlamanıza yardımcı olan yapay zeka destekli rüya analizi platformu",
+    "links": {
+      "product": "Ürün",
+      "features": "Özellikler",
+      "pricing": "Fiyatlandırma",
+      "about": "Hakkımızda"
+    },
+    "support": "Destek",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Şartları",
+    "copyright": "© 2025 DreamAnalyzer. Tüm hakları saklıdır."
+  },
+  "dashboard": {
+    "navigation": {
+      "dashboard": "Kontrol Paneli",
+      "journal": "Rüya Günlüğü",
+      "chat": "Yapay Zeka Rüya Sohbeti",
+      "history": "Analiz Geçmişi",
+      "insights": "İçgörüler ve Desenler",
+      "settings": "Ayarlar",
+      "subscription": "Abonelik"
+    },
+    "header": {
+      "searchPlaceholder": "Rüyalar, semboller, desenler ara...",
+      "recordDream": "Rüya Kaydet"
+    },
+    "welcome": {
+      "title": "Tekrar hoş geldin, {name}!",
+      "subtitle": "Bugün bilinçaltını keşfetmeye hazır mısın?"
+    },
+    "actions": {
+      "recordDream": "Yeni Rüya Kaydet",
+      "viewAll": "Tümünü Gör"
+    },
+    "recentDreams": {
+      "title": "Son Rüyalar",
+      "description": "Yapay zeka içgörüleri ile en son rüya girişlerin"
+    },
+    "aiChat": {
+      "title": "Yapay Zeka Rüya Sohbeti",
+      "description": "Rüyalarınız hakkında sorular sorun",
+      "startChat": "Sohbete Başla"
+    },
+    "quickActions": {
+      "title": "Hızlı Eylemler",
+      "scheduleDream": "Rüya Hatırlatıcısı Planla",
+      "viewInsights": "Yapay Zeka İçgörülerini Gör",
+      "exploreSymbols": "Rüya Sembollerini Keşfet"
+    }
+  },
+  "chat": {
+    "title": "Yapay Zeka Rüya Sohbeti",
+    "subtitle": "Kişisel yapay zeka rüya yorumcunuzla sohbet edin",
+    "status": {
+      "online": "Çevrimiçi",
+      "typing": "Yapay zeka analiz ediyor...",
+      "offline": "Çevrimdışı"
+    },
+    "placeholder": "Rüyanızı anlatın veya soru sorun...",
+    "send": "Gönder",
+    "voiceInput": "Ses Girişi",
+    "suggestedQuestions": {
+      "title": "Önerilen sorular:",
+      "questions": [
+        "Uçma rüyaları ne anlama gelir?",
+        "Neden aynı rüyayı görmeye devam ediyorum?",
+        "Su rüyaları neyi simgeler?",
+        "Rüyalarımı nasıl daha iyi hatırlayabilirim?",
+        "Hayvan rüyaları ne anlama gelir?",
+        "Neden kabus görüyorum?"
+      ]
+    },
+    "welcomeMessage": "Merhaba! Ben senin Yapay Zeka Rüya Yorumcun. Rüyalarındaki gizli anlamları anlamana yardımcı olmak için buradayım. Bugün neyi keşfetmek istersin?",
+    "aiResponses": {
+      "flying": "Uçma rüyaları büyüleyici! Genellikle özgürlük arzusunu, kısıtlamalardan kurtulmayı veya yaşama yeni bir perspektif kazanmayı temsil ederler. Yükseklerde süzülme hissi, güçlenme duygularını ve zorlukların üstesinden gelme yeteneğini gösterebilir.",
+      "water": "Rüyalarda su derinlemesine semboliktir ve tipik olarak duyguları, bilinçdışını ve ruhsal temizlenmeyi temsil eder. Suyun durumu genellikle duygusal durumunuzu yansıtır.",
+      "chase": "Kovalama rüyaları en yaygın rüya temalarından biridir ve genellikle uyanık yaşamınızda bir şeyden kaçınma veya kaygı duyduğunuzu gösterir.",
+      "animals": "Rüyalarda hayvanlar genellikle içgüdülerimizi, ilkel arzularımızı veya kişiliğimizin yönlerini temsil eder. Farklı hayvanlar farklı anlamlar taşır.",
+      "generic": "Bu çok ilginç bir rüya! Rüyalar oldukça kişiseldir ve anlamları yaşam deneyimlerinize, duygularınıza ve mevcut koşullarınıza göre değişebilir."
+    }
+  },
+  "journal": {
+    "title": "Rüya Günlüğü",
+    "subtitle": "Rüyalarını kaydet ve keşfet",
+    "addDream": "Yeni Rüya Kaydet",
+    "searchPlaceholder": "Rüyalar, etiketler, semboller ara...",
+    "filters": {
+      "allMoods": "Tüm Duygu Durumları",
+      "positive": "Olumlu",
+      "neutral": "Nötr",
+      "negative": "Olumsuz", 
+      "nostalgic": "Nostaljik",
+      "anxious": "Endişeli"
+    },
+    "form": {
+      "title": "Rüya Başlığı",
+      "titlePlaceholder": "Rüyana bir başlık ver...",
+      "description": "Rüya Açıklaması",
+      "descriptionPlaceholder": "Rüyanı detaylı olarak anlat...",
+      "mood": "Duygu Durumu",
+      "tags": "Etiketler (virgülle ayırın)",
+      "tagsPlaceholder": "macera, uçma, su...",
+      "lucid": "Bu bir lucid rüyaydı (rüya gördüğümün farkındaydım)",
+      "save": "Rüyayı Kaydet",
+      "cancel": "İptal"
+    },
+    "empty": {
+      "title": "Rüya bulunamadı",
+      "subtitle": "Rüya günlüğünü oluşturmak için rüyalarını kaydetmeye başla",
+      "filtered": "Arama veya filtrelerini ayarlamayı dene",
+      "cta": "İlk Rüyanı Kaydet"
+    },
+    "actions": {
+      "viewDetails": "Detayları Gör",
+      "edit": "Düzenle",
+      "delete": "Sil"
+    }
+    }
+} 
